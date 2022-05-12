@@ -38,11 +38,10 @@ Next, clone this repository and install its dependencies with `yarn install` or 
 ```
 REACT_APP_BACKEND_URL=http://localhost:8000
 ```
-
 Finally, run the application via `yarn start`. The application will be available at `http://localhost:3000`:
 
 ```
-yarn start
+npm start
 ```
 
 > Note: Currently, we recommend using `localhost` during local development of your backend and frontend to avoid CORS "Same-Origin" issues.
