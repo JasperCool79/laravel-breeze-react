@@ -14,9 +14,9 @@ First, create a React App compatible Laravel backend by installing Laravel Breez
 
 ```bash
 # Create the Laravel application...
-laravel new react-backend
+composer create-project --prefer-dist laravel/laravel:^8.0 LaravelBreeze
 
-cd react-backend
+cd LaravelBreeze
 
 # Install Breeze and dependencies...
 composer require laravel/breeze
