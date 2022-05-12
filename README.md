@@ -77,14 +77,6 @@ export default Dashboard
 - [Headlessui/react](https://headlessui.dev): for UI Components
 - [Vercel](http://vercel.com): for hosting
 
-## Contributing
-
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
-
-## Security Vulnerabilities
-
-Please review [our security policy](.github/SECURITY.md) on how to report security vulnerabilities.
-
 ## Credits
 -   [Nilanth](https://github.com/nilanth)
 -   [All Contributors](../../contributors)
@@ -94,10 +86,7 @@ Please review [our security policy](.github/SECURITY.md) on how to report securi
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## Deploy
-
-<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNilanth%2Flaravel-breeze-react"><img src="https://vercel.com/button" alt="Deploy with Vercel" height="37.5px" />
 </a>
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/Nilanth/laravel-breeze-react">
 <img src="https://www.netlify.com/img/deploy/button.svg" height="37.5px" />
 </a>
 
